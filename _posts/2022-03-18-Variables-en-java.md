@@ -1,29 +1,12 @@
-# Índex de continguts
-
-- [UT1.3 Variables](#ut13-variables)
-- [Ús de variables](#ús-de-variables)
-  - [Només usem literals?](#només-usem-literals)
-  - [Funcionament de la memòria](#funcionament-de-la-memòria)
-  - [Declaració de variables](#declaració-de-variables)
-  - [Identificador (nom de variable)](#identificador-nom-de-variable)
-  - [Paraules reservades](#paraules-reservades)
-  - [Exemples i pràctiques](#exemples-i-pràctiques)
-- [Operacions amb variables](#operacions-amb-variables)
-- [Constants](#constants)
-- [Conversions de tipus](#conversions-de-tipus)
-  - [Implícites](#conversions-de-tipus-implícites)
-  - [Explícites](#conversions-de-tipus-explícites)
-- [Eixida de dades per pantalla](#eixida-de-dades-per-pantalla)
-- [Cadenes de text (String)](#cadenes-de-text-string)
-- [Entrada simple de dades per teclat](#entrada-simple-de-dades-per-teclat-classe-scanner)
-- [Comentaris](#comentaris)
-  - [Comentari tradicional](#comentari-tradicional)
-  - [Comentari d'una sola línia](#comentari-duna-sola-línia)
-  - [Comentari de documentació](#comentari-de-documentació)
-
 ---
-
-## UT1.3 Variables
+typora-copy-images-to: ../assets/img/variables/
+typora-root-url: ../../
+layout: post
+title: Variables en Java
+categories: parte1
+conToc: true
+permalink: variables-en-java
+---
 
 Aquest tema tracta sobre les variables en programació, un concepte fonamental per emmagatzemar i manipular dades durant l'execució d'un programa.
 
